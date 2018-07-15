@@ -1,2 +1,2 @@
 # Regex-adventure
-Solutions for regex-adventure in NodeSchool (updated in January 2018).
+My solutions to NodeSchool regex-adventure problems (updated in January 2018).
